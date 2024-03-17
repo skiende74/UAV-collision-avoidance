@@ -2,8 +2,8 @@
 다수의 UAV 운용시 아군 UAV간 충돌을 예측, 회피경로작성, 회피, 기존미션경로복귀를 담당하는 알고리즘.
 
 아이디어를 미션에맞게 변형하여 차용한 논문
-- **"A Fast Obstacle Collision Avoidance Algorithmfor Fixed Wing UAS" - Zijie
-Lin, Lina Castano, and Huan XuMember, IEEE**
+- [**"A Fast Obstacle Collision Avoidance Algorithmfor Fixed Wing UAS" - Zijie
+Lin, Lina Castano, and Huan XuMember, IEEE**](https://user.eng.umd.edu/~mumu/files/LCX_ICUAS2018.pdf)
 #### 문제 조건
 - UAV는 인접 UAV와의 충돌위험성을 스스로 판단하고 회피
 - 이론적으로 확실한 회피가 보장되어야함.
