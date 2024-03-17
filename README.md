@@ -30,11 +30,11 @@ ROS/Gazebo환경으로 코드를 점진적으로 이동함.
 - 상대좌표계에서 등속가정이 깨짐 -> 절대좌표계에서 등속이게끔 함.
 - 실제 속도의 방향이 변함에따라 상대속도의 크기가 변함 -> 미리 어느정도 상대속도회전에따른 크기변화 예상중 가장 불리한 예측결과를사용하도록 하여 해결
 
-#### 간단한 설명
+### 간단한 설명
 ![image](https://github.com/skiende74/UAV-collision-avoidance/assets/86130706/4c95e342-c15a-4631-a454-df4ffe1eeea1)
 위 원 궤도를 따르면서, 상대UAV와 d_m만큼의 거리를 유지하며 최소회피 합니다.
 
-#### 다양한 상황에서의 회피결과
+### 다양한 상황에서의 회피결과
 파란 그래프는 내 UAV와 상대 UAV와의 거리를 나타냅니다.
 ![image](https://github.com/skiende74/UAV-collision-avoidance/assets/86130706/9023716f-a697-4552-aedb-29795cabec1a)
 ![image](https://github.com/skiende74/UAV-collision-avoidance/assets/86130706/52b7d399-4df7-4170-bb10-9297837b590f)
