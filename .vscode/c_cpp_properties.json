@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/escl2/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/escl2/catkin_ws/src/abc/include/**",
+        "/home/escl2/catkin_ws/src/begin_tuto/include/**",
+        "/home/escl2/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/escl2/catkin_ws/src/fga/include/**",
+        "/home/escl2/catkin_ws/src/mavros/libmavconn/include/**",
+        "/home/escl2/catkin_ws/src/lig_sim/include/**",
+        "/home/escl2/catkin_ws/src/mavros/mavros/include/**",
+        "/home/escl2/catkin_ws/src/mavros/mavros_msgs/include/**",
+        "/home/escl2/catkin_ws/src/offb/include/**",
+        "/home/escl2/catkin_ws/src/mavros/test_mavros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
