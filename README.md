@@ -6,7 +6,7 @@
 - [**"A Fast Obstacle Collision Avoidance Algorithmfor Fixed Wing UAS" - Zijie
 Lin, Lina Castano, and Huan XuMember, IEEE**](https://user.eng.umd.edu/~mumu/files/LCX_ICUAS2018.pdf)
 
-#### 문제 조건
+#### 과제 조건
 - UAV는 인접 UAV와의 충돌위험성을 스스로 판단하고 회피
 - 이론적으로 확실한 회피가 보장되어야함.
 - 고정익과 회전익에 모두적용가능해야함.
