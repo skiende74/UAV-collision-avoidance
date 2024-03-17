@@ -57,6 +57,7 @@ ROS/Gazebo환경으로 코드를 점진적으로 이동함.
 ![image](https://github.com/skiende74/UAV-collision-avoidance/assets/86130706/d1de6f9f-efc3-484b-9722-0d81e17a2216)
 ![image](https://github.com/skiende74/UAV-collision-avoidance/assets/86130706/dc70d2ae-21e3-4d5b-9ddd-675a2a1ed529)
 
+위의 모든 상황에서 safety_distance로 설정한 거리를 유지하면서 회피하는 것을 보여줍니다.
 
 이 설명은 축약된 것이며 상세 내역은
 [report](https://github.com/skiende74/UAV-collision-avoidance/blob/main/report.pdf) 에 있습니다.
